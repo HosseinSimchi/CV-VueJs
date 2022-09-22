@@ -4,15 +4,11 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="promo-block-divider">
-                        <h1 class="promo-block-title">Alex <br/> Teseira</h1>
-                        <p class="promo-block-text">Web Designer &amp; Front-end Developer</p>
+                        <h1 class="promo-block-title">Hossein <br/> Simchi</h1>
+                        <p class="promo-block-text">MEVN Stack Developer</p>
                     </div>
                     <ul class="list-inline">
-                        <li><a href="#" class="social-icons"><i class="icon-social-facebook"></i></a></li>
-                        <li><a href="#" class="social-icons"><i class="icon-social-twitter"></i></a></li>
-                        <li><a href="#" class="social-icons"><i class="icon-social-dribbble"></i></a></li>
-                        <li><a href="#" class="social-icons"><i class="icon-social-behance"></i></a></li>
-                        <li><a href="#" class="social-icons"><i class="icon-social-linkedin"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/hossein-simchi-284b611a7/" class="social-icons"><i class="icon-social-linkedin"></i></a></li>
                     </ul>
                 </div>
             </div>
